@@ -172,11 +172,11 @@ main {
   }
 }
 
-.btn-dark {
-  @extend .btn;
-  background: darken($primary-color, 50);
-  color: #fff;
-}
+// .btn-dark {
+//   @extend .btn;
+//   background: darken($primary-color, 50);
+//   color: #fff;
+// }
 
 .btn-light {
   @extend .btn;

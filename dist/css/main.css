@@ -213,18 +213,14 @@ main {
       .boxes div:hover span {
         color: #fff; }
 
-.btn, .btn-dark, .btn-light {
+.btn, .btn-light {
   display: block;
   padding: 0.5rem 1rem;
   border: 0;
   margin-bottom: 0.3rem; }
-  .btn:hover, .btn-dark:hover, .btn-light:hover {
+  .btn:hover, .btn-light:hover {
     background: rgba(95, 52, 116, 0.637);
     color: #fff; }
-
-.btn-dark {
-  background: #775252;
-  color: #fff; }
 
 .btn-light {
   background: white;
