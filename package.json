@@ -11,5 +11,16 @@
     "sass": "node-sass -w scss/ -o dist/css/ --recursive"
   },
   "author": "Cheonga Yun",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1shining1/modern_portfolio_new.git"
+  },
+  "keywords": [
+    "0000"
+  ],
+  "bugs": {
+    "url": "https://github.com/1shining1/modern_portfolio_new/issues"
+  },
+  "homepage": "https://github.com/1shining1/modern_portfolio_new#readme"
 }
